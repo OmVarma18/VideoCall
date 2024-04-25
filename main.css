@@ -11,6 +11,12 @@
     overflow:hidden;
 }
 
+/* CSS to flip video horizontally */
+.flipHorizontal {
+    transform: scaleX(-1);
+}
+
+
 .video-player{
     background-color: black;
     width: 100%;
